@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GZ-Metal-Cell/GZ-Metal-Cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=radical" />
-</a>
+<center><img src="photo.png" /></center>
+
+# GZ-Metal-Cell
 
 ---
 
@@ -41,3 +36,12 @@ I can swim, play badminton, enjoy photography, and play chess 🥸. Well... I’
 After the graduate entrance exam, I somehow ended up studying in **Hebei** 🤨, and by chance, I chose a major in **Artificial Intelligence** 🤫, becoming a **research “waste”** 😵. I’ve had a very different life experience here 🤧. I hope to travel and see more of my country’s beautiful landscapes during my graduate school breaks 🥳! And hopefully, I’ll graduate smoothly 😵‍💫.
 
 Although there are still regrets about some people or things 🫤, **I don’t let things outside of me affect my happiness or sadness.** I hope to become a better version of myself in the future 🫡!
+
+---
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=radical" />
+</a>
