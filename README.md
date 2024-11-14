@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GZ-Metal-Cell&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell&theme=radical" />
 </a>
 
 You can call me **Xiao Z** 🤗. I’m **25** years old 🫣. I’m from **Fuzhou, Fujian Province** 😬, but I don’t speak the Fuzhou dialect 😶, and I don’t like seafood 😵... I guess I’m not a true Fuzhou person 😇.
