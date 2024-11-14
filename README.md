@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GZ-Metal-Cell&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GZ-Metal-Cell&repo=convoychat" />
+</a>
 
 You can call me **Xiao Z** 🤗. I’m **25** years old 🫣. I’m from **Fuzhou, Fujian Province** 😬, but I don’t speak the Fuzhou dialect 😶, and I don’t like seafood 😵... I guess I’m not a true Fuzhou person 😇.
 
