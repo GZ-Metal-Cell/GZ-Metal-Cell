@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center><img src="photo.png" /></center>
-
 # GZ-Metal-Cell
+
+<center><img src="photo.png" /></center>
 
 ---
 
