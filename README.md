@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GZ-Metal-Cell&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GZ-Metal-Cell&repo=convoychat" />
