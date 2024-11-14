@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell)](https://github.com/anuraghazra/github-readme-stats)
+
 You can call me **Xiao Z** 🤗. I’m **25** years old 🫣. I’m from **Fuzhou, Fujian Province** 😬, but I don’t speak the Fuzhou dialect 😶, and I don’t like seafood 😵... I guess I’m not a true Fuzhou person 😇.
 
 According to the MBTI test, I’m an **INTJ** 🤔. But my room is always a mess, and I’m still **an introverted guy with some hidden charm** 🤤. I can’t stand formalism 😠, and I only like doing things that I enjoy 😕.
