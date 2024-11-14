@@ -39,9 +39,9 @@ Although there are still regrets about some people or things 🫤, **I don’t l
 
 ---
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell&theme=radical" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZ-Metal-Cell&theme=radical" />
 </a>
