@@ -39,4 +39,6 @@ Although there are still regrets about some people or things 🫤, **I don’t l
 
 ---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell)](https://github.com/GZ-Metal-Cell)
+
 ![](https://komarev.com/ghpvc/?username=GZ-Metal-Cell)
