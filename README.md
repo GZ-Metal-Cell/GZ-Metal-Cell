@@ -39,6 +39,4 @@ Although there are still regrets about some people or things 🫤, **I don’t l
 
 ---
 
-![Readme Stats](https://github-readme-stats.vercel.app/api?username=GZ-Metal-Cell&show_icons=true&theme=transparent)
-
-![Visitor Count](https://profile-counter.glitch.me/GZ-Metal-Cell.com/count.svg)
+![](https://komarev.com/ghpvc/?username=GZ-Metal-Cell)
